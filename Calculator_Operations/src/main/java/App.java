@@ -1,6 +1,6 @@
-package com.vinay.Calculator_Operations;
 
-import com.vinay.Calculator_Operations.Services.*;
+
+import Services.*;
 
 public class App {
 

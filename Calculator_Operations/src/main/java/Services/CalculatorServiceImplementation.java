@@ -1,4 +1,4 @@
-package com.vinay.Calculator_Operations.Services;
+package Services;
 
 public class CalculatorServiceImplementation implements CalculatorService {
 	
